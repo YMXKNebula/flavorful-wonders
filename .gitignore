@@ -1,0 +1,9 @@
+.gradle/
+.gradle-home/
+.local/
+build/
+run/
+*.log
+.idea/
+.vscode/
+__pycache__/

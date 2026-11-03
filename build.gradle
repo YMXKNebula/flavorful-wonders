@@ -1,0 +1,18 @@
+plugins { id 'java' }
+group = 'dev.baiwei'
+version = '1.0.0'
+base { archivesName = 'flavorful-wonders-26.3' }
+// Compile against a locally installed Minecraft 26.3 instance. See docs/BUILDING.md.
+def localClasspath = new groovy.json.JsonSlurper().parse(file('.local/classpath.json'))
+dependencies { compileOnly files(localClasspath); testImplementation files(localClasspath) }
+java { toolchain { languageVersion = JavaLanguageVersion.of(25) }; withSourcesJar() }
+tasks.withType(JavaCompile).configureEach { options.release=25; options.encoding='UTF-8'; options.compilerArgs += ['-proc:none'] }
+tasks.named('jar') { from('LICENSE') }
+tasks.register('mechanismTest', JavaExec) {
+    dependsOn testClasses
+    classpath = sourceSets.test.runtimeClasspath
+    mainClass = 'dev.baiwei.MechanismTest'
+}
+check.dependsOn mechanismTest
+// This project uses the executable settlement checks above, not a JUnit suite.
+tasks.named('test') { enabled = false }

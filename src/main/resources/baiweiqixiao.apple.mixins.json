@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.baiwei.mixin",
+  "plugin": "dev.baiwei.mixin.BaiweiMixinPlugin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["client.AppleSkinOverlayAccess"],
+  "injectors": {"defaultRequire": 1}
+}

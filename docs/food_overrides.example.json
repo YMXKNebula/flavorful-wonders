@@ -1,0 +1,23 @@
+{
+  "foods": {
+    "farmersdelight:cooked_rice": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    }
+  }
+}

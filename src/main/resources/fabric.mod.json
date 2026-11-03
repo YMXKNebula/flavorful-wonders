@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "baiweiqixiao",
+  "version": "1.0.0",
+  "name": "Farmer's Delight: Flavorful Wonders",
+  "description": "固定食品效果组合与21种原创效果。",
+  "authors": [
+    "百味奇效"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.baiwei.BaiweiMod"
+    ],
+    "client": [
+      "dev.baiwei.client.BaiweiClient"
+    ]
+  },
+  "mixins": [
+    "baiweiqixiao.mixins.json",
+    {
+      "config": "baiweiqixiao.apple.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*",
+    "farmersdelight": "*"
+  },
+  "suggests": {
+    "rusticdelight": "*",
+    "spanishdelight": "*",
+    "eastersdelight": "*",
+    "moredelight": "*",
+    "ubesdelight": "*",
+    "colonialdelight": "*",
+    "crabbersdelight": "*",
+    "delightful": "*",
+    "mynethersdelight": "*"
+  },
+  "contact": {
+    "homepage": "https://github.com/YMXKNebula/flavorful-wonders",
+    "sources": "https://github.com/YMXKNebula/flavorful-wonders",
+    "issues": "https://github.com/YMXKNebula/flavorful-wonders/issues"
+  }
+}

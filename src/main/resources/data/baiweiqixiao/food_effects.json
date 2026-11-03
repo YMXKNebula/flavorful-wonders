@@ -1,0 +1,7730 @@
+{
+  "version": "1.0.0",
+  "foods": {
+    "farmersdelight:bacon": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:cabbage_leaf": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:chicken_cuts": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:cod_slice": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 2600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:milk_bottle": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:minced_beef": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:mutton_chops": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:pie_crust": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:pumpkin_slice": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:raw_pasta": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:salmon_slice": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 2600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:tomato_sauce": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:wheat_dough": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:apple_cider": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:absorption": {
+          "remove": false,
+          "level": 2,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:apple_pie_slice": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:bacon_and_eggs": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:health_boost",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:11",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:bacon_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 2,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:20",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:baked_cod_stew": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:barbecue_stick": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:health_boost",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:14",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:beef_patty": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:strength",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:beef_stew": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:bone_broth": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:cabbage_rolls": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:cake_slice": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:chicken_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:16",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:chicken_soup": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:chocolate_pie_slice": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:cod_roll": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:cooked_bacon": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:cooked_chicken_cuts": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:cooked_cod_slice": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:cooked_mutton_chops": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:resistance",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:cooked_rice": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:cooked_salmon_slice": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:dumplings": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:egg_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:fish_stew": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:fried_egg": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:fried_rice": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:gleaming_salad": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:glow_berry_custard": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:grilled_salmon": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:08",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 4000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:hamburger": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:06",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:honey_cookie": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:honey_glazed_ham": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:health_boost",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:hot_cocoa": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:kelp_roll": {
+      "added": [
+        {
+          "effect": "minecraft:breath_of_the_nautilus",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:kelp_roll_slice": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:melon_juice": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:melon_popsicle": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:mixed_salad": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 3,
+          "ticks": 8400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:mushroom_rice": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 18000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:21",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:mutton_wrap": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:nether_salad": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 12000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:noodle_soup": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:08",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 5400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:onion_soup": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:pasta_with_meatballs": {
+      "added": [
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 3000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:pasta_with_mutton_chop": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:pumpkin_soup": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:ratatouille": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 3,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:21",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:roast_chicken": {
+      "added": [
+        {
+          "effect": "original:16",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:roasted_mutton_chops": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:salmon_roll": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:shepherds_pie": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:strength",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:smoked_ham": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:squid_ink_pasta": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:steak_and_potatoes": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:14",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:stuffed_potato": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:health_boost",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:07",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:stuffed_pumpkin": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:sweet_berry_cheesecake_slice": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:sweet_berry_cookie": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "farmersdelight:vegetable_noodles": {
+      "added": [
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:vegetable_soup": {
+      "added": [
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:batter": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_black": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_blue": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_green": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_orange": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_pink": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_purple": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_red": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_white": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_slice_yellow": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:calamari_slice": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 2600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:cooking_oil": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:potato_slices": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_coffee_beans": {
+      "added": [
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:baked_potato_slices": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_pasta": {
+      "added": [
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:bell_pepper_roll_black": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_roll_blue": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_roll_green": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_roll_orange": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_roll_pink": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_roll_purple": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_roll_red": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_roll_white": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_roll_yellow": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:bell_pepper_soup": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:calamari_roll": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:calamari_soup": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:08",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:cherry_blossom_cheesecake_slice": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:cherry_blossom_coffee": {
+      "added": [
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:cherry_blossom_cookie": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:cherry_blossom_pancake": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:health_boost": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:cherry_blossom_roll": {
+      "added": [
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:chocolate_coffee": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:chocolate_pancake": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:coffee": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 5400,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 1,
+          "ticks": 5400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:coffee_braised_beef": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:11",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:coffee_cheesecake_slice": {
+      "added": [
+        {
+          "effect": "original:13",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 3,
+          "ticks": 8400,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 3,
+          "ticks": 8400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:coffee_cookie": {
+      "added": [
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:coffee_pancake": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:haste": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:cooked_calamari": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:cooked_calamari_slice": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:dark_coffee": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 2,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 2,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:fried_calamari": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:fried_chicken": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:07",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:fried_dough": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:fried_dumplings": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:fried_fish": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:fried_mushrooms": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 18000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:21",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:fruit_beignet": {
+      "added": [
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 3,
+          "ticks": 8400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:golden_coffee_beans": {
+      "added": [
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:honey_coffee": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:honey_pancake": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:milk_coffee": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:pancake": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:potato_salad": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:pumpkin_coffee": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:pumpkin_pancake": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:health_boost": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:roasted_bell_pepper_black": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_blue": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_green": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_orange": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_pink": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_purple": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_red": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_black": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_blue": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_green": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_orange": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_pink": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_purple": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_red": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_white": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_slice_yellow": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_white": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:roasted_bell_pepper_yellow": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:spring_rolls": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_black": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_blue": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_green": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_orange": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_pink": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_purple": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_red": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_white": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:stuffed_bell_pepper_yellow": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:sweet_salad": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 3,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:syrup_cheesecake_slice": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:syrup_coffee": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:syrup_cookie": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:syrup_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "rusticdelight:vegetable_pancake": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:haste": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:sliced_onion": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "spanishdelight:sliced_potato": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "spanishdelight:brava_potatoes": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:churro": {
+      "added": [
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:croquettes": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:fried_squid_ring": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:gazpacho": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:paella": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:20",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:pantumaca": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:pil_pil_cod": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 4000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "spanishdelight:spanish_tortilla": {
+      "added": [
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "eastersdelight:boiled_blue_egg": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "eastersdelight:boiled_brown_egg": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "eastersdelight:boiled_egg": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "eastersdelight:bunny_cookie": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "eastersdelight:chocolate_egg": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "eastersdelight:dyed_egg": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "eastersdelight:egg_slice": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 12000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:diced_potatoes": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:bread_slice": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:carrot_soup": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "moredelight:chicken_salad": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:07",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "moredelight:chicken_sandwich_with_egg_and_tomato": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 8400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:chocolate_popsicle": {
+      "added": [
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:cooked_rice_with_beef": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "moredelight:cooked_rice_with_chicken_cuts": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "moredelight:cooked_rice_with_porkchop": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "moredelight:creamy_pasta_with_chicken_cuts": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:14",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "moredelight:creamy_pasta_with_ham": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:16",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "moredelight:diced_potatoes_with_beef": {
+      "added": [
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:diced_potatoes_with_chicken_cuts": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:11",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:diced_potatoes_with_egg_and_tomato": {
+      "added": [
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:21",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:diced_potatoes_with_porkchop": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:egg_with_bacon_sandwich": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:hamburger_with_egg": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:loaded_hamburger": {
+      "added": [
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:mashed_potatoes": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:omelette": {
+      "added": [
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:porkchop_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 2,
+          "ticks": 4200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:potato_salad": {
+      "added": [
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 1,
+          "ticks": 900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "moredelight:simple_hamburger": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:20",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:steak_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 2,
+          "ticks": 4200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:11",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:toast": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:toast_with_chocolate": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 2,
+          "ticks": 0,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:luck",
+          "level": 2,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:toast_with_egg": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:toast_with_glow_berries": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:toast_with_honey": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 2,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:toast_with_sweet_berries": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "moredelight:tomato_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 2,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:ensaymada_raw": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:ensaymada_ube_raw": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:fish_sauce_bottle": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 2600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:dolphins_grace": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3100,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:garlic_chop": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:ginger_chop": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:hopia_munggo_raw": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:hopia_ube_raw": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:pandesal_raw": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:pandesal_ube_raw": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:arroz_caldo": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:07",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:bangsilog": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:06",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 4000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:bulalo": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:14",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:chicken_inasal": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 2,
+          "ticks": 4200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:chicken_inasal_rice": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:cookie_ginger": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:cookie_ube": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:ensaymada": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:ensaymada_ube": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:night_vision": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:halo_halo": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:hopia_munggo": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:hopia_ube": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:night_vision": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:kinilaw": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:08",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:leche_flan": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:lumpia": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:mechado": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:16",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 4000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:milk_tea_ube": {
+      "added": [
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:night_vision": {
+          "remove": false,
+          "level": 1,
+          "ticks": 12000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:pandesal": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:pandesal_ube": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:night_vision": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:polvorone": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:polvorone_cc": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:polvorone_pinipig": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 2,
+          "ticks": 0,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:polvorone_ube": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:sinangag": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:sisig": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:tocino": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:16",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "ubesdelight:tosilog": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:20",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:ube_cake_slice": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:night_vision": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "colonialdelight:buttermilk": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:raw_sausage": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:apple_brandy": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 2,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 1,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:apple_butter": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:apple_juice": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:apple_sauce": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:regeneration",
+          "level": 2,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:baked_beans_serving": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:06",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:baked_squash": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:bean_porridge": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 12000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:21",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:bean_stew": {
+      "added": [
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:beef_jerky": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:beef_pot_pie_serving": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 2,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:20",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:birch_beer": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 1,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:bread_pudding_serving": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:buttermilk_biscuit": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:buttermilk_pie_serving": {
+      "added": [
+        {
+          "effect": "original:13",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:cane_juice": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:chicken_fricassee": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:07",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:chicken_pot_pie_serving": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 2,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:10",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:cooked_sausage": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:corn_beer": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "colonialdelight:corn_chowder": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:14",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:corn_pudding_serving": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:corn_whiskey": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 2,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:night_vision": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 0,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:cornbread": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:dried_apple_rings": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:dried_pumpkin": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:griddle_cakes": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:hard_cider": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:haste": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 1,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:hasty_pudding": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:hodgepodge": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:johnnycake": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:mead": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:absorption": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 1,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:molasses_beer": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:strength": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 1,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:molasses_bread": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:molasses_cookie": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 1,
+          "ticks": 0,
+          "probability": 0.25
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:pemmican": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:pepper_pot": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:popcorn": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:pumpkin_bread": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:pumpkin_butter": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:roast_joint_serving": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:strength",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:roasted_corn": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:roasted_sweet_potato": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:rum": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 2,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 0,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:rye_beer": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:luck": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 0,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:rye_bread": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:rye_whiskey": {
+      "added": [
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:health_boost": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 1,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:smoked_bacon": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:resistance",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:smoked_cod": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:smoked_mutton": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:smoked_pork": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:smoked_salmon": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:smoked_sausage": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:spruce_beer": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": null,
+          "ticks": null,
+          "level_offset": 0,
+          "duration_multiplier": 3
+        }
+      }
+    },
+    "colonialdelight:stewed_pumpkin": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 3,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:13",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:succotash": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:sweet_potato_pie_serving": {
+      "added": [
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "colonialdelight:three_sisters_stew": {
+      "added": [
+        {
+          "effect": "original:21",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:coconut_halve": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:coconut_milk": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:pufferfish_slice": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 2600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:tropical_fish_slice": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 2600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:bisque": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 2,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:08",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:clam_bake": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 2,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:breath_of_the_nautilus",
+          "level": 1,
+          "ticks": 10800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:10",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 5000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:clam_chowder": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:conduit_power",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:coconut_pudding": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_clam_meat": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_clawster": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_crab": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_frog_leg": {
+      "added": [
+        {
+          "effect": "original:04",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_glow_squid_tentacles": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_pufferfish_slice": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_shrimp": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_squid_tentacles": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_tropical_fish": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:cooked_tropical_fish_slice": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:coral_crunch": {
+      "added": [
+        {
+          "effect": "original:13",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:crab_cakes": {
+      "added": [
+        {
+          "effect": "minecraft:regeneration",
+          "level": 2,
+          "ticks": 1200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:crab_legs": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:fish_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:breath_of_the_nautilus",
+          "level": 1,
+          "ticks": 10800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:fish_stick": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:fried_fish": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:frog_leg_kebab": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 18000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:11",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:jar_of_pickles": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:kelp_shake": {
+      "added": [
+        {
+          "effect": "minecraft:breath_of_the_nautilus",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:dolphins_grace": {
+          "remove": false,
+          "level": 1,
+          "ticks": 7200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:seafood_gumbo": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:14",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 5800,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:shrimp_fried_rice": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 2,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:shrimp_skewer": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:conduit_power",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:squid_kebab": {
+      "added": [
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:01",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "crabbersdelight:stuffed_nautilus_shell": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:surf_and_turf": {
+      "added": [
+        {
+          "effect": "original:08",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:turtle_stew": {
+      "added": [
+        {
+          "effect": "minecraft:dolphins_grace",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:cactus_flesh": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:cantaloupe_slice": {
+      "added": [
+        {
+          "effect": "minecraft:jump_boost",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1500,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:glow_jam_jar": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:jam_jar": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 1,
+          "ticks": 1300,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:nut_butter_bottle": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 2600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:nut_dough": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 2600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:baklava_slice": {
+      "added": [
+        {
+          "effect": "minecraft:instant_health",
+          "level": 2,
+          "ticks": 0,
+          "probability": 0.25
+        },
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:haste": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:berry_matcha_latte": {
+      "added": [
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:instant_health": {
+          "remove": false,
+          "level": 1,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 2,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 3,
+          "ticks": 8400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:cactus_chili": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:strength": {
+          "remove": false,
+          "level": 3,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:cactus_soup": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:cactus_steak": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:cantaloupe_bread": {
+      "added": [
+        {
+          "effect": "minecraft:absorption",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 2,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:cantaloupe_gummy": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 4,
+          "ticks": 4800,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:cantaloupe_popsicle": {
+      "added": [
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 2,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:cheeseburger": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 3,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:20",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:strength": {
+          "remove": false,
+          "level": 3,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:cooked_goat": {
+      "added": [
+        {
+          "effect": "original:15",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:cooked_marshmallow_stick": {
+      "added": [
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 2,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:slow_falling": {
+          "remove": false,
+          "level": 1,
+          "ticks": 7200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:crab_rangoon": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 3,
+          "ticks": 4800,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:deluxe_cheeseburger": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 3,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:06",
+          "level": 1,
+          "ticks": 1200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:strength": {
+          "remove": false,
+          "level": 3,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:ender_nectar": {
+      "added": [
+        {
+          "effect": "original:10",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:instant_health": {
+          "remove": false,
+          "level": 1,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 3,
+          "ticks": 8400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:field_salad": {
+      "added": [
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:luck",
+          "level": 2,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:21",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:glow_jam_cookie": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:matcha_gummy": {
+      "added": [
+        {
+          "effect": "minecraft:water_breathing",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:08",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 3,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:matcha_ice_cream": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 2,
+          "ticks": 1800,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 3,
+          "ticks": 8400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:matcha_latte": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:instant_health": {
+          "remove": false,
+          "level": 1,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 2,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 2,
+          "ticks": 7200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:matcha_milkshake": {
+      "added": [
+        {
+          "effect": "original:13",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 2,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:haste": {
+          "remove": false,
+          "level": 3,
+          "ticks": 8400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:nut_butter_and_jam_sandwich": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:haste",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 2,
+          "ticks": 5400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:roasted_acorn": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "delightful:salmonberry_ice_cream": {
+      "added": [
+        {
+          "effect": "minecraft:speed",
+          "level": 3,
+          "ticks": 8400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:water_breathing": {
+          "remove": false,
+          "level": 1,
+          "ticks": 14400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:salmonberry_milkshake": {
+      "added": [
+        {
+          "effect": "minecraft:slow_falling",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:water_breathing": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:salmonberry_pie_slice": {
+      "added": [
+        {
+          "effect": "minecraft:luck",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:water_breathing": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:sinigang": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:speed",
+          "level": 2,
+          "ticks": 6600,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:07",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 14400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:smore": {
+      "added": [
+        {
+          "effect": "original:13",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:speed": {
+          "remove": false,
+          "level": 3,
+          "ticks": 8400,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:slow_falling": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:wrapped_cantaloupe": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 3,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:health_boost",
+          "level": 2,
+          "ticks": 6000,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:11",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 3,
+          "ticks": 4800,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:ghast_dough": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:ghast_sourdough": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:hoglin_sausage": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:minced_strider": {
+      "added": [
+        {
+          "effect": "original:03",
+          "level": 1,
+          "ticks": 1500,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:blue_tenderloin_steak": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:11",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:boiled_egg": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:breakfast_sampler": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:09",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6100,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:burnt_roll": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:chilidog": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 2,
+          "ticks": 4200,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "mynethersdelight:g_pungent": {
+          "remove": false,
+          "level": 1,
+          "ticks": 600,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:cooked_loin": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:crimson_stroganoff": {
+      "added": [
+        {
+          "effect": "original:14",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 14400,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:deviled_egg": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 2,
+          "ticks": 4200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:hero_of_the_village",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:dried_ghast_with_milk": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:egg_soup": {
+      "added": [
+        {
+          "effect": "minecraft:invisibility",
+          "level": 1,
+          "ticks": 7200,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:09",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:fried_hoglin_chop": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:16",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:fries_ghasta": {
+      "added": [
+        {
+          "effect": "minecraft:saturation",
+          "level": 1,
+          "ticks": 0,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:giant_takoyaki": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:golden_egg": {
+      "added": [
+        {
+          "effect": "original:09",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:resistance": {
+          "remove": false,
+          "level": 2,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:absorption": {
+          "remove": false,
+          "level": 2,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:hot_cream": {
+      "added": [
+        {
+          "effect": "original:17",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "mynethersdelight:g_pungent": {
+          "remove": false,
+          "level": 3,
+          "ticks": 600,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 14400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:hot_wings": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:hot_wings_bucket": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 2,
+          "ticks": 4200,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:hotdog": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:09",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:hotdog_with_mixed_salad": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:09",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:hotdog_with_nether_salad": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:09",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:nether_burger": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:05",
+          "level": 2,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:plate_of_cold_striderloaf": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:plate_of_ghasta_with_cream": {
+      "added": [
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:plate_of_striderloaf": {
+      "added": [
+        {
+          "effect": "minecraft:health_boost",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:plate_of_stuffed_hoglin": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:plate_of_stuffed_hoglin_ham": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:plate_of_stuffed_hoglin_snout": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:red_loin_on_a_stick": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:07",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:roast_ear": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:roasted_sausage": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:rock_soup": {
+      "added": [
+        {
+          "effect": "minecraft:strength",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:sausage_and_potatoes": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:scotch_eggs": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 2,
+          "ticks": 3600,
+          "probability": 1.0
+        },
+        {
+          "effect": "minecraft:absorption",
+          "level": 2,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:sizzling_pudding": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:02",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:slices_of_bread": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:spicy_curry": {
+      "added": [
+        {
+          "effect": "minecraft:resistance",
+          "level": 3,
+          "ticks": 4800,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:18",
+          "level": 1,
+          "ticks": 4800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": false,
+          "level": 1,
+          "ticks": 2900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:spicy_hoglin_stew": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:09",
+          "level": 1,
+          "ticks": 6000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:spicy_noodle_soup": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:19",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:spicy_skewer": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:strider_stew": {
+      "added": [
+        {
+          "effect": "original:16",
+          "level": 1,
+          "ticks": 3600,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 14400,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:strider_with_grilled_fungus": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 14400,
+          "probability": 1.0
+        },
+        {
+          "effect": "original:12",
+          "level": 1,
+          "ticks": 2400,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:stuffed_pepper": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:tear_popsicle": {
+      "added": [
+        {
+          "effect": "minecraft:haste",
+          "level": 1,
+          "ticks": 3000,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 2,
+          "ticks": 900,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:toasts": {
+      "added": [
+        {
+          "effect": "minecraft:fire_resistance",
+          "level": 1,
+          "ticks": 9600,
+          "probability": 1.0
+        }
+      ],
+      "native": {}
+    },
+    "mynethersdelight:twisted_ghasta": {
+      "added": [
+        {
+          "effect": "minecraft:night_vision",
+          "level": 1,
+          "ticks": 7800,
+          "probability": 1.0
+        }
+      ],
+      "native": {
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:fruit_salad": {
+      "added": [],
+      "native": {
+        "minecraft:regeneration": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1200,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "farmersdelight:pumpkin_pie_slice": {
+      "added": [],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "rusticdelight:syrup": {
+      "added": [],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1500,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "ubesdelight:condensed_milk_bottle": {
+      "added": [],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 1500,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "crabbersdelight:sea_pickle_juice": {
+      "added": [],
+      "native": {
+        "minecraft:water_breathing": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:salmonberries": {
+      "added": [],
+      "native": {
+        "minecraft:water_breathing": {
+          "remove": false,
+          "level": 1,
+          "ticks": 100,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:marshmallow_stick": {
+      "added": [],
+      "native": {
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "delightful:salmonberry_gummy": {
+      "added": [],
+      "native": {
+        "minecraft:water_breathing": {
+          "remove": false,
+          "level": 1,
+          "ticks": 14400,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:bleeding_tartar": {
+      "added": [],
+      "native": {
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "farmersdelight:nourishment": {
+          "remove": true,
+          "level": null,
+          "ticks": null,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:hot_cream_cone": {
+      "added": [],
+      "native": {
+        "mynethersdelight:g_pungent": {
+          "remove": false,
+          "level": 1,
+          "ticks": 200,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:magma_cake_slice": {
+      "added": [],
+      "native": {
+        "mynethersdelight:g_pungent": {
+          "remove": false,
+          "level": 3,
+          "ticks": 400,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:speed": {
+          "remove": false,
+          "level": 1,
+          "ticks": 3600,
+          "level_offset": null,
+          "duration_multiplier": null
+        },
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 6000,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    },
+    "mynethersdelight:spicy_cotton": {
+      "added": [],
+      "native": {
+        "minecraft:fire_resistance": {
+          "remove": false,
+          "level": 1,
+          "ticks": 9600,
+          "level_offset": null,
+          "duration_multiplier": null
+        }
+      }
+    }
+  }
+}
