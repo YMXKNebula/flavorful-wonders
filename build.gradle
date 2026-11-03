@@ -1,6 +1,6 @@
 plugins { id 'java' }
 group = 'dev.baiwei'
-version = '1.0.0'
+version = '1.0.1'
 base { archivesName = 'flavorful-wonders-26.3' }
 // Compile against a locally installed Minecraft 26.3 instance. See docs/BUILDING.md.
 def localClasspath = new groovy.json.JsonSlurper().parse(file('.local/classpath.json'))

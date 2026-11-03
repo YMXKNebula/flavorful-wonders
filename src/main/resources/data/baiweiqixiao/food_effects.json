@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "foods": {
     "farmersdelight:bacon": {
       "added": [
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2000,
           "probability": 1.0
         }
       ],
@@ -17,7 +17,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -28,7 +28,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2000,
           "probability": 1.0
         }
       ],
@@ -39,7 +39,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 2600,
+          "ticks": 3500,
           "probability": 1.0
         }
       ],
@@ -50,7 +50,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2100,
           "probability": 1.0
         }
       ],
@@ -61,7 +61,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2000,
           "probability": 1.0
         }
       ],
@@ -72,7 +72,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2000,
           "probability": 1.0
         }
       ],
@@ -83,7 +83,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2300,
           "probability": 1.0
         }
       ],
@@ -94,7 +94,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -105,7 +105,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2100,
           "probability": 1.0
         }
       ],
@@ -116,7 +116,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 2600,
+          "ticks": 3500,
           "probability": 1.0
         }
       ],
@@ -127,7 +127,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -138,7 +138,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2100,
           "probability": 1.0
         }
       ],
@@ -149,13 +149,13 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 6600,
           "probability": 1.0
         },
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -163,7 +163,7 @@
         "minecraft:absorption": {
           "remove": false,
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -174,7 +174,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -182,7 +182,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -193,19 +193,19 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:health_boost",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "original:11",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 2400,
           "probability": 1.0
         }
       ],
@@ -213,7 +213,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2900,
+          "ticks": 2400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -224,13 +224,13 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:hero_of_the_village",
           "level": 2,
-          "ticks": 8400,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -247,7 +247,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -266,19 +266,19 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:health_boost",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "original:14",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -289,13 +289,13 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:strength",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -306,7 +306,7 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -325,7 +325,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -344,7 +344,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -355,7 +355,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -363,7 +363,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -374,7 +374,7 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
@@ -397,7 +397,7 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -416,7 +416,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -424,7 +424,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -458,7 +458,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -469,13 +469,13 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -486,13 +486,13 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -503,13 +503,13 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:resistance",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -520,7 +520,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -539,13 +539,13 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -573,7 +573,7 @@
         {
           "effect": "minecraft:speed",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -584,13 +584,13 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -609,7 +609,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -620,7 +620,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -628,7 +628,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -639,7 +639,7 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "probability": 1.0
         }
       ],
@@ -658,7 +658,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -669,19 +669,19 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "original:08",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -689,7 +689,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 4000,
+          "ticks": 4200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -700,13 +700,13 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:speed",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
@@ -734,19 +734,19 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:health_boost",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -754,7 +754,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 3000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -765,7 +765,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -776,13 +776,13 @@
         {
           "effect": "minecraft:breath_of_the_nautilus",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 10200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -793,13 +793,13 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 13800,
           "probability": 1.0
         }
       ],
@@ -810,7 +810,7 @@
         {
           "effect": "minecraft:speed",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -822,7 +822,7 @@
           "effect": "minecraft:instant_health",
           "level": 1,
           "ticks": 0,
-          "probability": 0.25
+          "probability": 0.5
         }
       ],
       "native": {}
@@ -832,7 +832,7 @@
         {
           "effect": "minecraft:speed",
           "level": 3,
-          "ticks": 8400,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -840,7 +840,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -851,7 +851,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 18000,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
@@ -876,7 +876,7 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
@@ -888,7 +888,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -910,13 +910,13 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 10800,
           "probability": 1.0
         },
         {
           "effect": "original:08",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -960,19 +960,19 @@
         {
           "effect": "minecraft:hero_of_the_village",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 7800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 3000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -991,13 +991,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 3000,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -1016,7 +1016,7 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -1035,7 +1035,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 3,
-          "ticks": 8400,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -1060,7 +1060,7 @@
         {
           "effect": "original:16",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -1068,7 +1068,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2400,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1079,19 +1079,19 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -1099,7 +1099,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2900,
+          "ticks": 2400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1127,13 +1127,13 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:strength",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -1152,7 +1152,7 @@
         {
           "effect": "minecraft:strength",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -1163,7 +1163,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -1182,13 +1182,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
@@ -1202,7 +1202,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2900,
+          "ticks": 2400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1213,19 +1213,19 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:health_boost",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "original:07",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -1236,7 +1236,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 18000,
           "probability": 1.0
         }
       ],
@@ -1255,7 +1255,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1263,7 +1263,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1285,7 +1285,7 @@
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 9000,
           "probability": 1.0
         }
       ],
@@ -1293,7 +1293,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2900,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1304,7 +1304,7 @@
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -1323,7 +1323,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2300,
           "probability": 1.0
         }
       ],
@@ -1334,7 +1334,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1345,7 +1345,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1356,7 +1356,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1367,7 +1367,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1378,7 +1378,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1389,7 +1389,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1400,7 +1400,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1411,7 +1411,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1422,7 +1422,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1433,7 +1433,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 2600,
+          "ticks": 3500,
           "probability": 1.0
         }
       ],
@@ -1444,7 +1444,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 3300,
           "probability": 1.0
         }
       ],
@@ -1455,7 +1455,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1466,7 +1466,7 @@
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -1483,7 +1483,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -1494,7 +1494,7 @@
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -1513,7 +1513,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1524,7 +1524,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1535,7 +1535,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1546,7 +1546,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1557,7 +1557,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1568,7 +1568,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1579,7 +1579,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1590,7 +1590,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1601,7 +1601,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1612,7 +1612,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -1631,13 +1631,13 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 8400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -1648,13 +1648,13 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "original:08",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -1673,7 +1673,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1681,7 +1681,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1692,7 +1692,7 @@
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -1700,14 +1700,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 7200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1718,7 +1718,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -1729,7 +1729,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -1737,7 +1737,7 @@
         "minecraft:health_boost": {
           "remove": false,
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1748,7 +1748,7 @@
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -1759,7 +1759,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -1767,14 +1767,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 7200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1785,7 +1785,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -1793,7 +1793,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1804,7 +1804,7 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -1812,14 +1812,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 5400,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 1,
-          "ticks": 5400,
+          "ticks": 7200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1830,13 +1830,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
@@ -1850,7 +1850,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2900,
+          "ticks": 2400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1861,7 +1861,7 @@
         {
           "effect": "original:13",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -1869,14 +1869,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 3,
-          "ticks": 8400,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 3,
-          "ticks": 8400,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1887,7 +1887,7 @@
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
@@ -1904,7 +1904,7 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -1912,7 +1912,7 @@
         "minecraft:haste": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1923,7 +1923,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -1934,7 +1934,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -1951,7 +1951,7 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -1959,14 +1959,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 2,
-          "ticks": 3600,
+          "ticks": 6600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -1977,7 +1977,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 11400,
           "probability": 1.0
         },
         {
@@ -1989,7 +1989,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -2008,19 +2008,19 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:07",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 2400,
           "probability": 1.0
         }
       ],
@@ -2039,13 +2039,13 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 9000,
           "probability": 1.0
         }
       ],
@@ -2073,13 +2073,13 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 7800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -2090,7 +2090,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 18000,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
@@ -2121,7 +2121,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -2129,7 +2129,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 3,
-          "ticks": 8400,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2140,7 +2140,7 @@
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2151,7 +2151,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -2159,14 +2159,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 7200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2177,7 +2177,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -2185,7 +2185,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2196,7 +2196,7 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -2204,14 +2204,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 8400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2222,7 +2222,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -2233,13 +2233,13 @@
         {
           "effect": "minecraft:health_boost",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 6600,
           "probability": 1.0
         },
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -2247,7 +2247,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2258,7 +2258,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -2266,14 +2266,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 7200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2284,7 +2284,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -2292,7 +2292,7 @@
         "minecraft:health_boost": {
           "remove": false,
           "level": 1,
-          "ticks": 2400,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2303,7 +2303,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2314,7 +2314,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2325,7 +2325,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2336,7 +2336,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2347,7 +2347,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2358,7 +2358,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2369,7 +2369,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2533,7 +2533,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2544,7 +2544,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2555,7 +2555,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -2566,7 +2566,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2577,7 +2577,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2588,7 +2588,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2599,7 +2599,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2610,7 +2610,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2621,7 +2621,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2632,7 +2632,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2643,7 +2643,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2654,7 +2654,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -2665,13 +2665,13 @@
         {
           "effect": "minecraft:speed",
           "level": 3,
-          "ticks": 8400,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -2679,7 +2679,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2690,7 +2690,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -2698,7 +2698,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2709,7 +2709,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -2717,14 +2717,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 7200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2746,7 +2746,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -2757,7 +2757,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -2765,7 +2765,7 @@
         "minecraft:haste": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2776,7 +2776,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -2787,7 +2787,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -2798,13 +2798,13 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 10800,
           "probability": 1.0
         }
       ],
@@ -2823,7 +2823,7 @@
         {
           "effect": "minecraft:hero_of_the_village",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -2842,7 +2842,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -2861,7 +2861,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -2880,7 +2880,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -2899,13 +2899,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
@@ -2919,7 +2919,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2900,
+          "ticks": 2400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2930,13 +2930,13 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 11400,
           "probability": 1.0
         }
       ],
@@ -2955,19 +2955,19 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 10200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "original:19",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -2975,7 +2975,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 4000,
+          "ticks": 4200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -2986,13 +2986,13 @@
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3011,7 +3011,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -3022,7 +3022,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -3033,7 +3033,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -3044,7 +3044,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -3055,13 +3055,13 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1500,
           "probability": 1.0
         },
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -3072,7 +3072,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -3083,13 +3083,13 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 12000,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -3100,7 +3100,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3111,13 +3111,13 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1500,
           "probability": 1.0
         }
       ],
@@ -3128,7 +3128,7 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1500,
           "probability": 1.0
         }
       ],
@@ -3147,19 +3147,19 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:07",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -3167,7 +3167,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1500,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -3189,7 +3189,7 @@
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -3200,7 +3200,7 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -3219,7 +3219,7 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -3238,7 +3238,7 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -3257,7 +3257,7 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
@@ -3282,13 +3282,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:16",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -3307,13 +3307,13 @@
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 11400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:hero_of_the_village",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -3324,7 +3324,7 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -3341,7 +3341,7 @@
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 8400,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
@@ -3364,13 +3364,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -3381,7 +3381,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -3392,7 +3392,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -3403,7 +3403,7 @@
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -3414,13 +3414,13 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 11400,
           "probability": 1.0
         }
       ],
@@ -3431,7 +3431,7 @@
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -3442,13 +3442,13 @@
         {
           "effect": "minecraft:strength",
           "level": 2,
-          "ticks": 4200,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:speed",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3459,13 +3459,13 @@
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 10800,
           "probability": 1.0
         },
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3473,7 +3473,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 1,
-          "ticks": 900,
+          "ticks": 1500,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -3484,7 +3484,7 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
@@ -3513,7 +3513,7 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1500,
           "probability": 1.0
         },
         {
@@ -3530,7 +3530,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
@@ -3553,13 +3553,13 @@
         {
           "effect": "minecraft:luck",
           "level": 2,
-          "ticks": 8400,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3576,7 +3576,7 @@
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3593,7 +3593,7 @@
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3616,7 +3616,7 @@
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3633,7 +3633,7 @@
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -3644,13 +3644,13 @@
         {
           "effect": "minecraft:luck",
           "level": 2,
-          "ticks": 8400,
+          "ticks": 7800,
           "probability": 1.0
         },
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -3661,7 +3661,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3672,7 +3672,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3683,7 +3683,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 2600,
+          "ticks": 4100,
           "probability": 1.0
         }
       ],
@@ -3691,7 +3691,7 @@
         "minecraft:dolphins_grace": {
           "remove": false,
           "level": 1,
-          "ticks": 3100,
+          "ticks": 3600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -3702,7 +3702,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3713,7 +3713,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3724,7 +3724,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3735,7 +3735,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3746,7 +3746,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3757,7 +3757,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -3768,19 +3768,19 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
           "effect": "original:07",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -3799,7 +3799,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 11400,
           "probability": 1.0
         },
         {
@@ -3819,7 +3819,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 4000,
+          "ticks": 3600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -3830,19 +3830,19 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
           "effect": "original:14",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3861,13 +3861,13 @@
         {
           "effect": "minecraft:strength",
           "level": 2,
-          "ticks": 4200,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -3878,19 +3878,19 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:speed",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -3898,7 +3898,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 3000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -3909,7 +3909,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -3920,7 +3920,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -3931,7 +3931,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -3942,7 +3942,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -3950,7 +3950,7 @@
         "minecraft:night_vision": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 18000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -3961,13 +3961,13 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1500,
           "probability": 1.0
         },
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 9000,
           "probability": 1.0
         }
       ],
@@ -3986,7 +3986,7 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "probability": 1.0
         }
       ],
@@ -3997,7 +3997,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -4005,7 +4005,7 @@
         "minecraft:night_vision": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 18000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -4016,13 +4016,13 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 13200,
           "probability": 1.0
         },
         {
           "effect": "original:08",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -4041,7 +4041,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -4069,7 +4069,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 11400,
           "probability": 1.0
         },
         {
@@ -4081,7 +4081,7 @@
         {
           "effect": "original:16",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -4089,7 +4089,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 4000,
+          "ticks": 4200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -4100,7 +4100,7 @@
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -4108,7 +4108,7 @@
         "minecraft:night_vision": {
           "remove": false,
           "level": 1,
-          "ticks": 12000,
+          "ticks": 10800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -4119,13 +4119,13 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -4136,13 +4136,13 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -4150,7 +4150,7 @@
         "minecraft:night_vision": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 15600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -4178,7 +4178,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -4195,7 +4195,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -4217,7 +4217,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -4236,19 +4236,19 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
           "effect": "original:19",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -4267,13 +4267,13 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:16",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -4284,13 +4284,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
@@ -4304,7 +4304,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2900,
+          "ticks": 2400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -4315,7 +4315,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -4323,7 +4323,7 @@
         "minecraft:night_vision": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 18000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -4334,7 +4334,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2300,
           "probability": 1.0
         }
       ],
@@ -4345,7 +4345,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2300,
           "probability": 1.0
         }
       ],
@@ -4356,19 +4356,19 @@
         {
           "effect": "minecraft:regeneration",
           "level": 2,
-          "ticks": 1200,
+          "ticks": 600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 9000,
           "probability": 1.0
         },
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -4387,13 +4387,13 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -4404,7 +4404,7 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1500,
           "probability": 1.0
         }
       ],
@@ -4415,19 +4415,19 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 10800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:regeneration",
           "level": 2,
-          "ticks": 1200,
+          "ticks": 900,
           "probability": 1.0
         },
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -4438,13 +4438,13 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:speed",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
@@ -4461,13 +4461,13 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 12600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "probability": 1.0
         }
       ],
@@ -4484,7 +4484,7 @@
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
@@ -4501,13 +4501,13 @@
         {
           "effect": "minecraft:hero_of_the_village",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 7800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 11400,
           "probability": 1.0
         }
       ],
@@ -4518,7 +4518,7 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -4529,7 +4529,7 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
@@ -4552,7 +4552,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -4571,7 +4571,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -4582,7 +4582,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -4593,7 +4593,7 @@
         {
           "effect": "original:13",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -4604,7 +4604,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -4615,19 +4615,19 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:07",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 2400,
           "probability": 1.0
         }
       ],
@@ -4638,7 +4638,7 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
@@ -4650,7 +4650,7 @@
         {
           "effect": "original:10",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -4661,13 +4661,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -4678,7 +4678,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -4697,19 +4697,19 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:14",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -4720,7 +4720,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -4731,13 +4731,13 @@
         {
           "effect": "minecraft:regeneration",
           "level": 2,
-          "ticks": 1200,
+          "ticks": 900,
           "probability": 1.0
         },
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -4756,7 +4756,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -4767,7 +4767,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -4778,7 +4778,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -4789,7 +4789,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -4800,7 +4800,7 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
@@ -4825,7 +4825,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -4836,7 +4836,7 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -4847,7 +4847,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -4858,7 +4858,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -4877,7 +4877,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
@@ -4902,7 +4902,7 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "probability": 1.0
         }
       ],
@@ -4924,19 +4924,19 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:hero_of_the_village",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 7800,
           "probability": 1.0
         },
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -4947,7 +4947,7 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -4958,7 +4958,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -4969,7 +4969,7 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "probability": 1.0
         }
       ],
@@ -4980,13 +4980,13 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -4997,13 +4997,13 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:strength",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -5014,7 +5014,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -5025,7 +5025,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -5036,19 +5036,19 @@
         {
           "effect": "minecraft:regeneration",
           "level": 2,
-          "ticks": 1200,
+          "ticks": 600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 9000,
           "probability": 1.0
         },
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -5067,7 +5067,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -5086,7 +5086,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -5097,7 +5097,7 @@
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -5116,13 +5116,13 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:resistance",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -5133,7 +5133,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5144,7 +5144,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -5155,7 +5155,7 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -5166,7 +5166,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5183,7 +5183,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -5200,7 +5200,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -5219,19 +5219,19 @@
         {
           "effect": "minecraft:speed",
           "level": 3,
-          "ticks": 8400,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:jump_boost",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
           "effect": "original:13",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -5242,7 +5242,7 @@
         {
           "effect": "minecraft:regeneration",
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "probability": 1.0
         }
       ],
@@ -5253,7 +5253,7 @@
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -5275,7 +5275,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2000,
           "probability": 1.0
         }
       ],
@@ -5286,7 +5286,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2100,
           "probability": 1.0
         }
       ],
@@ -5297,7 +5297,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 2600,
+          "ticks": 3500,
           "probability": 1.0
         }
       ],
@@ -5308,7 +5308,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 2600,
+          "ticks": 3500,
           "probability": 1.0
         }
       ],
@@ -5319,13 +5319,13 @@
         {
           "effect": "minecraft:regeneration",
           "level": 2,
-          "ticks": 1200,
+          "ticks": 900,
           "probability": 1.0
         },
         {
           "effect": "original:08",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -5350,13 +5350,13 @@
         {
           "effect": "minecraft:breath_of_the_nautilus",
           "level": 1,
-          "ticks": 10800,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
           "effect": "original:10",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -5364,7 +5364,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 5000,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -5375,19 +5375,19 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 8400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:conduit_power",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -5406,7 +5406,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -5417,7 +5417,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5428,7 +5428,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -5439,7 +5439,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5450,7 +5450,7 @@
         {
           "effect": "original:04",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -5461,7 +5461,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -5472,13 +5472,13 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -5489,7 +5489,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5500,7 +5500,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5511,7 +5511,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5522,7 +5522,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -5539,7 +5539,7 @@
         {
           "effect": "original:13",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5558,19 +5558,19 @@
         {
           "effect": "minecraft:regeneration",
           "level": 2,
-          "ticks": 1200,
+          "ticks": 900,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 8400,
           "probability": 1.0
         },
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -5589,7 +5589,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -5612,13 +5612,13 @@
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 7200,
           "probability": 1.0
         },
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5629,13 +5629,13 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 8400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -5646,13 +5646,13 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -5663,19 +5663,19 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 18000,
+          "ticks": 16200,
           "probability": 1.0
         },
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 8400,
+          "ticks": 10200,
           "probability": 1.0
         },
         {
           "effect": "original:11",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -5686,7 +5686,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -5697,7 +5697,7 @@
         {
           "effect": "minecraft:breath_of_the_nautilus",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 10200,
           "probability": 1.0
         }
       ],
@@ -5705,7 +5705,7 @@
         "minecraft:dolphins_grace": {
           "remove": false,
           "level": 1,
-          "ticks": 7200,
+          "ticks": 8400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -5722,7 +5722,7 @@
         {
           "effect": "original:14",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -5730,7 +5730,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 5800,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -5741,19 +5741,19 @@
         {
           "effect": "minecraft:luck",
           "level": 2,
-          "ticks": 8400,
+          "ticks": 7800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 7800,
           "probability": 1.0
         },
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -5772,13 +5772,13 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 7800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:conduit_power",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 10200,
           "probability": 1.0
         }
       ],
@@ -5795,13 +5795,13 @@
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
           "effect": "original:01",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -5812,13 +5812,13 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 8400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -5837,7 +5837,7 @@
         {
           "effect": "original:08",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -5856,7 +5856,7 @@
         {
           "effect": "minecraft:dolphins_grace",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -5864,7 +5864,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -5875,7 +5875,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2000,
           "probability": 1.0
         }
       ],
@@ -5886,7 +5886,7 @@
         {
           "effect": "minecraft:jump_boost",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2800,
           "probability": 1.0
         }
       ],
@@ -5894,7 +5894,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 1500,
+          "ticks": 1700,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -5905,7 +5905,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2600,
           "probability": 1.0
         }
       ],
@@ -5916,7 +5916,7 @@
         {
           "effect": "minecraft:speed",
           "level": 1,
-          "ticks": 1300,
+          "ticks": 2600,
           "probability": 1.0
         }
       ],
@@ -5927,7 +5927,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 2600,
+          "ticks": 4100,
           "probability": 1.0
         }
       ],
@@ -5938,7 +5938,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 2600,
+          "ticks": 4500,
           "probability": 1.0
         }
       ],
@@ -5955,7 +5955,7 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 10200,
           "probability": 1.0
         }
       ],
@@ -5963,7 +5963,7 @@
         "minecraft:haste": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 8400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -5974,7 +5974,7 @@
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -5989,14 +5989,14 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 2,
-          "ticks": 1200,
+          "ticks": 600,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 3,
-          "ticks": 8400,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6007,7 +6007,7 @@
         {
           "effect": "minecraft:health_boost",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
@@ -6028,7 +6028,7 @@
         "minecraft:strength": {
           "remove": false,
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6039,7 +6039,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -6047,7 +6047,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6058,7 +6058,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -6069,7 +6069,7 @@
         {
           "effect": "minecraft:absorption",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -6077,7 +6077,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6088,7 +6088,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -6096,7 +6096,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 4,
-          "ticks": 4800,
+          "ticks": 3600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6107,7 +6107,7 @@
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -6115,7 +6115,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 2,
-          "ticks": 3600,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6126,7 +6126,7 @@
         {
           "effect": "minecraft:speed",
           "level": 3,
-          "ticks": 8400,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -6147,7 +6147,7 @@
         "minecraft:strength": {
           "remove": false,
           "level": 3,
-          "ticks": 6000,
+          "ticks": 4200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6158,7 +6158,7 @@
         {
           "effect": "original:15",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -6169,7 +6169,7 @@
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -6177,14 +6177,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 2,
-          "ticks": 6000,
+          "ticks": 5400,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:slow_falling": {
           "remove": false,
           "level": 1,
-          "ticks": 7200,
+          "ticks": 9600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6195,7 +6195,7 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 11400,
           "probability": 1.0
         },
         {
@@ -6207,7 +6207,7 @@
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -6215,7 +6215,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6226,7 +6226,7 @@
         {
           "effect": "minecraft:speed",
           "level": 3,
-          "ticks": 8400,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -6247,7 +6247,7 @@
         "minecraft:strength": {
           "remove": false,
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6258,7 +6258,7 @@
         {
           "effect": "original:10",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 9000,
           "probability": 1.0
         }
       ],
@@ -6273,7 +6273,7 @@
         "minecraft:haste": {
           "remove": false,
           "level": 3,
-          "ticks": 8400,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6284,13 +6284,13 @@
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:luck",
           "level": 2,
-          "ticks": 8400,
+          "ticks": 6000,
           "probability": 1.0
         },
         {
@@ -6311,7 +6311,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 1,
-          "ticks": 1200,
+          "ticks": 900,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6333,19 +6333,19 @@
         {
           "effect": "minecraft:water_breathing",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 8400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "original:08",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -6353,7 +6353,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 3,
-          "ticks": 1200,
+          "ticks": 400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6364,7 +6364,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -6372,14 +6372,14 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 2,
-          "ticks": 1800,
+          "ticks": 600,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 3,
-          "ticks": 8400,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6405,7 +6405,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 2,
-          "ticks": 1200,
+          "ticks": 600,
           "level_offset": null,
           "duration_multiplier": null
         },
@@ -6423,7 +6423,7 @@
         {
           "effect": "original:13",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -6431,14 +6431,14 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 2,
-          "ticks": 1200,
+          "ticks": 600,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:haste": {
           "remove": false,
           "level": 3,
-          "ticks": 8400,
+          "ticks": 6600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6449,13 +6449,13 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:haste",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -6470,7 +6470,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 2,
-          "ticks": 5400,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6481,7 +6481,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -6492,13 +6492,13 @@
         {
           "effect": "minecraft:speed",
           "level": 3,
-          "ticks": 8400,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -6506,7 +6506,7 @@
         "minecraft:water_breathing": {
           "remove": false,
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6517,13 +6517,13 @@
         {
           "effect": "minecraft:slow_falling",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 9600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -6531,7 +6531,7 @@
         "minecraft:water_breathing": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 11400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6542,7 +6542,7 @@
         {
           "effect": "minecraft:luck",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -6550,7 +6550,7 @@
         "minecraft:water_breathing": {
           "remove": false,
           "level": 1,
-          "ticks": 6000,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6561,19 +6561,19 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:speed",
           "level": 2,
-          "ticks": 6600,
+          "ticks": 5400,
           "probability": 1.0
         },
         {
           "effect": "original:07",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 2400,
           "probability": 1.0
         }
       ],
@@ -6588,7 +6588,7 @@
         "minecraft:fire_resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 14400,
+          "ticks": 10800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6599,7 +6599,7 @@
         {
           "effect": "original:13",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -6614,14 +6614,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 3,
-          "ticks": 8400,
+          "ticks": 4800,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:slow_falling": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 7200,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6632,19 +6632,19 @@
         {
           "effect": "minecraft:strength",
           "level": 3,
-          "ticks": 6000,
+          "ticks": 2400,
           "probability": 1.0
         },
         {
           "effect": "minecraft:health_boost",
           "level": 2,
-          "ticks": 6000,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:11",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 1800,
           "probability": 1.0
         }
       ],
@@ -6652,7 +6652,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 3,
-          "ticks": 4800,
+          "ticks": 2400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6663,7 +6663,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2300,
           "probability": 1.0
         }
       ],
@@ -6674,7 +6674,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2500,
           "probability": 1.0
         }
       ],
@@ -6685,7 +6685,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2100,
           "probability": 1.0
         }
       ],
@@ -6696,7 +6696,7 @@
         {
           "effect": "original:03",
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2100,
           "probability": 1.0
         }
       ],
@@ -6707,13 +6707,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "original:11",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -6732,7 +6732,7 @@
         {
           "effect": "minecraft:strength",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -6743,13 +6743,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "original:09",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 9000,
           "probability": 1.0
         }
       ],
@@ -6757,7 +6757,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 6100,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -6768,7 +6768,7 @@
         {
           "effect": "minecraft:strength",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -6779,7 +6779,7 @@
         {
           "effect": "minecraft:strength",
           "level": 2,
-          "ticks": 4200,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -6805,7 +6805,7 @@
         {
           "effect": "minecraft:strength",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -6816,7 +6816,7 @@
         {
           "effect": "original:14",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6000,
           "probability": 1.0
         }
       ],
@@ -6824,7 +6824,7 @@
         "minecraft:fire_resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         },
@@ -6842,13 +6842,13 @@
         {
           "effect": "minecraft:strength",
           "level": 2,
-          "ticks": 4200,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "minecraft:hero_of_the_village",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 6600,
           "probability": 1.0
         },
         {
@@ -6865,7 +6865,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -6876,13 +6876,13 @@
         {
           "effect": "minecraft:invisibility",
           "level": 1,
-          "ticks": 7200,
+          "ticks": 10200,
           "probability": 1.0
         },
         {
           "effect": "original:09",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -6901,13 +6901,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 13200,
           "probability": 1.0
         },
         {
           "effect": "original:16",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -6937,7 +6937,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -6948,7 +6948,7 @@
         {
           "effect": "original:09",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -6956,7 +6956,7 @@
         "minecraft:resistance": {
           "remove": false,
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4200,
           "level_offset": null,
           "duration_multiplier": null
         },
@@ -6974,7 +6974,7 @@
         {
           "effect": "original:17",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -6989,7 +6989,7 @@
         "minecraft:fire_resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 14400,
+          "ticks": 9600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7019,19 +7019,19 @@
         {
           "effect": "minecraft:strength",
           "level": 2,
-          "ticks": 4200,
+          "ticks": 3000,
           "probability": 1.0
         },
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 4200,
           "probability": 1.0
         },
         {
           "effect": "original:19",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 3000,
           "probability": 1.0
         }
       ],
@@ -7050,13 +7050,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "original:09",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -7067,13 +7067,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 11400,
           "probability": 1.0
         },
         {
           "effect": "original:09",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 7800,
           "probability": 1.0
         }
       ],
@@ -7081,7 +7081,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1500,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7092,13 +7092,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "original:09",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -7109,13 +7109,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 15600,
           "probability": 1.0
         },
         {
           "effect": "original:05",
           "level": 2,
-          "ticks": 4800,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -7126,7 +7126,7 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -7145,7 +7145,7 @@
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 9000,
           "probability": 1.0
         }
       ],
@@ -7164,7 +7164,7 @@
         {
           "effect": "minecraft:health_boost",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 5400,
           "probability": 1.0
         }
       ],
@@ -7183,7 +7183,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -7202,7 +7202,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -7221,7 +7221,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -7240,7 +7240,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
@@ -7257,7 +7257,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -7268,7 +7268,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -7279,7 +7279,7 @@
         {
           "effect": "minecraft:strength",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -7298,7 +7298,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -7309,13 +7309,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 2,
-          "ticks": 3600,
+          "ticks": 4800,
           "probability": 1.0
         },
         {
           "effect": "minecraft:absorption",
           "level": 2,
-          "ticks": 3000,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -7334,13 +7334,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 13200,
           "probability": 1.0
         },
         {
           "effect": "original:02",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -7351,7 +7351,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -7362,13 +7362,13 @@
         {
           "effect": "minecraft:resistance",
           "level": 3,
-          "ticks": 4800,
+          "ticks": 3600,
           "probability": 1.0
         },
         {
           "effect": "original:18",
           "level": 1,
-          "ticks": 4800,
+          "ticks": 6600,
           "probability": 1.0
         }
       ],
@@ -7376,7 +7376,7 @@
         "farmersdelight:nourishment": {
           "remove": false,
           "level": 1,
-          "ticks": 2900,
+          "ticks": 2400,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7387,13 +7387,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 10800,
           "probability": 1.0
         },
         {
           "effect": "original:09",
           "level": 1,
-          "ticks": 6000,
+          "ticks": 7200,
           "probability": 1.0
         }
       ],
@@ -7412,13 +7412,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "original:19",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4200,
           "probability": 1.0
         }
       ],
@@ -7437,7 +7437,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -7448,7 +7448,7 @@
         {
           "effect": "original:16",
           "level": 1,
-          "ticks": 3600,
+          "ticks": 4800,
           "probability": 1.0
         }
       ],
@@ -7456,7 +7456,7 @@
         "minecraft:fire_resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         },
@@ -7474,13 +7474,13 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "probability": 1.0
         },
         {
           "effect": "original:12",
           "level": 1,
-          "ticks": 2400,
+          "ticks": 3600,
           "probability": 1.0
         }
       ],
@@ -7499,7 +7499,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "probability": 1.0
         }
       ],
@@ -7510,7 +7510,7 @@
         {
           "effect": "minecraft:haste",
           "level": 1,
-          "ticks": 3000,
+          "ticks": 9000,
           "probability": 1.0
         }
       ],
@@ -7529,7 +7529,7 @@
         {
           "effect": "minecraft:fire_resistance",
           "level": 1,
-          "ticks": 9600,
+          "ticks": 8400,
           "probability": 1.0
         }
       ],
@@ -7540,7 +7540,7 @@
         {
           "effect": "minecraft:night_vision",
           "level": 1,
-          "ticks": 7800,
+          "ticks": 9600,
           "probability": 1.0
         }
       ],
@@ -7560,7 +7560,7 @@
         "minecraft:regeneration": {
           "remove": false,
           "level": 1,
-          "ticks": 1200,
+          "ticks": 1800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7572,7 +7572,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7584,7 +7584,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7596,7 +7596,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 1500,
+          "ticks": 2600,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7608,7 +7608,7 @@
         "minecraft:water_breathing": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7632,7 +7632,7 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7644,7 +7644,7 @@
         "minecraft:water_breathing": {
           "remove": false,
           "level": 1,
-          "ticks": 14400,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7656,7 +7656,7 @@
         "minecraft:fire_resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         },
@@ -7675,14 +7675,14 @@
         "mynethersdelight:g_pungent": {
           "remove": false,
           "level": 1,
-          "ticks": 200,
+          "ticks": 400,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:fire_resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7701,14 +7701,14 @@
         "minecraft:speed": {
           "remove": false,
           "level": 1,
-          "ticks": 3600,
+          "ticks": 6600,
           "level_offset": null,
           "duration_multiplier": null
         },
         "minecraft:fire_resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 6000,
+          "ticks": 10800,
           "level_offset": null,
           "duration_multiplier": null
         }
@@ -7720,7 +7720,7 @@
         "minecraft:fire_resistance": {
           "remove": false,
           "level": 1,
-          "ticks": 9600,
+          "ticks": 12000,
           "level_offset": null,
           "duration_multiplier": null
         }

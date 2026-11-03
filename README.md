@@ -2,6 +2,8 @@
 
 Farmer’s Delight: Flavorful Wonders · Minecraft 26.3 · Fabric
 
+当前版本[1.0.1](https://github.com/YMXKNebula/flavorful-wonders/releases/tag/v1.0.1)。按食品主副用途、工序和每份成本重新平衡时长；简单半加工略短、复杂料理的主效果适当增强，半加工总体仍以成品3/7为参照。效果种类、等级和核心机制保持，西瓜冰棍的治疗Ⅰ触发率由25%提高到50%。见[更新记录](docs/CHANGELOG.md)。
+
 做好的饭，除了填饱肚子，也能派上别的用场。
 
 百味奇效为农夫乐事和九个料理附属添加固定的食物效果。带几种不同的饭出门，可以搭配出采矿、建造、探索或战斗需要的能力。原料不新增效果，半加工品和成品各有用途；同一种食物的效果始终一致。
@@ -35,13 +37,15 @@ Farmer’s Delight: Flavorful Wonders · Minecraft 26.3 · Fabric
 
 ## 调整食物效果
 
-在 `config/baiweiqixiao/food_overrides.json` 中按物品ID覆盖配置。列出的食品条目整体替换，其他食品使用默认值。写法见 [配置说明](docs/CONFIGURATION.md)。
+在 `config/baiweiqixiao/food_overrides.json` 中按物品ID覆盖配置。列出的食品条目整体替换，其他食品使用默认值。已有覆盖条目会继续优先于1.0.1默认值，升级时请自行核对。写法见 [配置说明](docs/CONFIGURATION.md)。
 
 新陈代谢保留原版快、慢两档，两档分别加速到两倍；饱和度耗尽后回血会变慢。大胃袋结束时，超过正常上限的资源会立即收回。
 
 ## 兼容情况
 
 1.0.0已在Fabric Loader 0.19.5上通过36项服务端自动测试，检查了439种映射食品的食用流程；也在包含136个原始模组的整包客户端中检查了进世界、提示框、双排饥饿条和AppleSkin显示。
+
+1.0.1已通过9项结算检查，并在Loader 0.19.5的核心及九附属环境分别通过37项GameTest，九附属环境实际食用了439种映射食品。新增检查区分了西瓜冰棍50%与蜂蜜曲奇25%的治疗触发率；九附属客户端及保留的136模组整包测试副本均通过新时长、提示与HUD检查。
 
 这些检查不覆盖所有模组组合。真实远程多人、长期平衡、Boss专属AI对恐吓的影响，以及客户端和服务端使用不同食物配置时的提示同步，仍需继续验证。遇到问题请在 [Issues](https://github.com/YMXKNebula/flavorful-wonders/issues) 附上日志、食物ID和复现步骤。
 

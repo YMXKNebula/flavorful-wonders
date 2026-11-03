@@ -47,11 +47,13 @@ public final class FoodTooltipClientChecks {
             }
         }catch(java.io.IOException e){throw new RuntimeException(e);}
         var bacon=stack("farmersdelight:bacon");String baconText=join(lines(mc,bacon));
-        check(baconText.contains("活力 I")&&baconText.contains("1:15"),"Base food level/time omitted");
+        check(baconText.contains("活力 I")&&baconText.contains("1:40"),"Updated semi-processed food level/time omitted");
+        check(join(lines(mc,stack("farmersdelight:melon_popsicle"))).contains("50%"),"Updated popsicle healing probability omitted");
+        check(join(lines(mc,stack("farmersdelight:honey_cookie"))).contains("25%"),"Batch cookie probability changed unexpectedly");
         var salad=BuiltInRegistries.ITEM.getOptional(Identifier.parse("delightful:field_salad"));
         if(salad.isPresent()){
             String text=join(lines(mc,new ItemStack(salad.get())));
-            check(text.contains("急迫 II")&&text.contains("5:00")&&!text.contains("滋养"),"Corrected salad tooltip does not match approved rules");
+            check(lines(mc,new ItemStack(salad.get())).stream().anyMatch(c->c.getString().contains("急迫 II")&&c.getString().contains("4:30"))&&!text.contains("滋养"),"Updated salad tooltip does not match approved rules");
         }
         check(!join(lines(mc,new ItemStack(Items.CARROT))).contains("百味奇效 · 食用效果"),"Raw materials falsely advertise added effects");
         var custom=bacon.copy();var consume=custom.get(DataComponents.CONSUMABLE);

@@ -44,6 +44,18 @@ public final class BaiweiGameTests {
         p.addEffect(new MobEffectInstance(n,999,0));food("farmersdelight:beef_stew").finishUsingItem(t.getLevel(),p);
         t.assertTrue(p.getEffect(n)!=null&&p.getEffect(n).getDuration()==999,"Removed food effect must not clear a preexisting buff");t.succeed();
     }
+    @GameTest public void popsicleHealingChanceExceedsBatchCookieWithoutChangingDose(GameTestHelper t){
+        var p=player(t);long selected=-1;
+        for(long seed=0;seed<65536;seed++){
+            p.getRandom().setSeed(seed);float roll=p.getRandom().nextFloat();
+            if(roll>.30f&&roll<.40f){selected=seed;break;}
+        }
+        t.assertTrue(selected>=0,"Find a deterministic roll between the two food probabilities");
+        p.setHealth(1);p.getRandom().setSeed(selected);FoodRules.applyAdded(p,"farmersdelight:melon_popsicle");
+        eq(t,p.getHealth(),5,"Popsicle 50% chance applies one level-I heal");
+        p.setHealth(1);p.getRandom().setSeed(selected);FoodRules.applyAdded(p,"farmersdelight:honey_cookie");
+        eq(t,p.getHealth(),1,"Batch cookie retains its 25% chance");t.succeed();
+    }
     @GameTest public void doubleMealAndStomachUseSeparateCapAndNutrition(GameTestHelper t){
         var p=player(t);effect(p,17);effect(p,18);p.getFoodData().setFoodLevel(20);p.getFoodData().setSaturation(0);
         new ItemStack(Items.BREAD).finishUsingItem(t.getLevel(),p);

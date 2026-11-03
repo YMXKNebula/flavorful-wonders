@@ -22,4 +22,4 @@ gradlew.bat build mechanismTest
 ./gradlew build mechanismTest
 ```
 
-首次使用Wrapper需要联网下载Gradle 9.4.1。成品位于 `build/libs/flavorful-wonders-26.3-1.0.0.jar`。`src/gametest`、`src/clienttest` 保留游戏测试源码；普通构建只编译主源码和纯Java结算测试，不会把游戏测试夹具装进发行JAR。
+首次使用Wrapper需要联网下载Gradle 9.4.1。成品位于 `build/libs/flavorful-wonders-26.3-1.0.1.jar`。`src/gametest`、`src/clienttest` 保留游戏测试源码；普通构建只编译主源码和纯Java结算测试，不会把游戏测试夹具装进发行JAR。
